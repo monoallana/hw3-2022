@@ -53,7 +53,7 @@ div {
 	background-color: #0000ff;
 	text-align: left;
 	margin-right: 50px;
-	border-width: 2px 0px 5px 0px;
+	border-width: 2px 5px 0px 0px;
 }
 
 .blue h2, .blue p {
@@ -76,8 +76,6 @@ div {
 	text-align: left;
 	margin-right: 50px;
 	border-width: 2px 5px 0px 0px;
-	border-right: 5px;
-	border-top: 2px;
 }
 
 footer {
